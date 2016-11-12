@@ -4,12 +4,12 @@
 
 > This template based on Vue 2.x compatible and webpack 2.
 
-## Included
-Vue (2.x)
-Vue-router
-Vuex
-Webpack 2 (2.1.0-beta.22)
-Eslint (optional)
+## What's Included
+- Vue (2.x)
+- Vue-router
+- Vuex
+- Webpack 2 (2.1.0-beta.22)
+- Eslint (optional)
 
 ## Usage
 
