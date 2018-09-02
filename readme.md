@@ -1,4 +1,7 @@
-# vue-starter-boilerplate
+# vue-starter-boilerplate [DEPRECATED]
+
+## Deprecated
+Since Vue cli 3 was realead it's better way to use it now https://github.com/vuejs/vue-cli.
 
 > A Webpack setup with hot-reload, lint-on-save & css extraction.
 
